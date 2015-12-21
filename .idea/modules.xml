@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BRAGI.iml" filepath="$PROJECT_DIR$/BRAGI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bragi/Bragi.iml" filepath="$PROJECT_DIR$/Bragi/Bragi.iml" />
+    </modules>
+  </component>
+</project>
